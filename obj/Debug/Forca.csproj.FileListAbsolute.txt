@@ -1,0 +1,10 @@
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.csprojAssemblyReference.cache
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.Form1.resources
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.Properties.Resources.resources
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.csproj.GenerateResource.cache
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+C:\Users\WALISON\source\repos\Forca\bin\Debug\Forca.exe.config
+C:\Users\WALISON\source\repos\Forca\bin\Debug\Forca.exe
+C:\Users\WALISON\source\repos\Forca\bin\Debug\Forca.pdb
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.exe
+C:\Users\WALISON\source\repos\Forca\obj\Debug\Forca.pdb
